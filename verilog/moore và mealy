@@ -1,0 +1,8 @@
+moore và mealy
+
+|đặc điểm|moore|mealy|
+|---|---|---|
+|đầu ra phụ thuộc vào| chỉ trạng thái| cả trạng thái hiện tại và đầu vào|
+|phản ứng đầu ra| chậm hơn|nhanh hơn|
+|số trạng thái cần thiết|ít hơn|nhiều hơn|
+|ứng dụng| cần phản hồi nhanh, như bộ giải mã, điều khuyển trình tự| cần ổn định, như bộ chia tần số, đèn giao thông|
